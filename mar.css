@@ -1,0 +1,72 @@
+.font-center{
+    text-align: center;
+}
+body{
+    background-color: rgb(248, 3, 3);
+}
+h1{
+    color: azure;
+}
+.text-style{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.text-shadow{
+    text-shadow: 2px 2px 4px #141414;
+   
+}
+h2{
+    color: rgb(0, 0, 0);
+    font-family: impact;
+    text-shadow: 1px 1px 2px #ff9999;
+    text-align: center;
+}
+p1{
+    color: bisque;
+    font-family: ariel;
+
+}
+.char{
+    color: rgb(0, 0, 0);
+    text-align:center;
+    font-family: cursive;
+    text-shadow: 1px 1px 3px #ad7f7f;
+}
+.example{
+    background-color:#ffffff;
+    border: 2px solid #999;
+    padding: 80px;
+    margin: 20px;
+}
+.chaa{
+    
+    background-position: center;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-shadow: #999;
+    font-family: cursive;
+    text-shadow: 1px 1px 3px #ad7f7f;
+}
+.caa{
+    
+    background-position: center;
+    color: rgb(0, 0, 0);
+    text-align:
+    center;
+    font-family: cursive;
+    text-shadow: #999;
+    text-shadow: 1px 1px 3px #ad7f7f;
+}
+.image-bg {
+    background-image: url(avengers.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding-top: 200px;
+    padding-bottom: 200px;
+   }
+   .image-bg h2 {
+    color: white;
+    font-size: 60px;
+    font-family: "Audiowide", sans-serif;
+   }
+  
